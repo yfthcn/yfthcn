@@ -1,13 +1,13 @@
 <div align="center">
 
-# Y. Fatih Cin · `yfthcn`
+# yfthcn
 
 **Network Engineer → NetDevOps · SRE · Platform Engineering**
 *Ağ Mühendisi → NetDevOps · SRE · Platform Mühendisliği*
 
 ![Location](https://img.shields.io/badge/based_in-Hungary-388e3c?style=flat)
 ![Focus](https://img.shields.io/badge/focus-network_automation-1ba0d7?style=flat)
-![CCNA](https://img.shields.io/badge/CCNA-in_progress-f7a800?style=flat)
+![CCNP](https://img.shields.io/badge/CCNP-in_progress-f7a800?style=flat)
 [![Website](https://img.shields.io/badge/web-kaktusdev.net-6f42c1?style=flat)](https://kaktusdev.net)
 
 </div>
@@ -16,9 +16,9 @@
 
 ### 👋 About · Hakkımda
 
-**EN** — 2nd-level network engineer based in Hungary, moving from *running* networks to *automating* them. I build small, zero-dependency tools that solve one problem well — and I tend to name them after Turkic mythology. Comfortable in the terminal, learning the platform/SRE stack one project at a time.
+**EN** — Network engineer. I build small, zero-dependency tools as a hobby and to solve my own needs — mostly to keep learning and getting better.
 
-**TR** — Macaristan'da çalışan 2. seviye ağ mühendisiyim; ağları *işletmekten* *otomatikleştirmeye* doğru ilerliyorum. Tek bir işi iyi yapan, sıfır-bağımlılıklı küçük araçlar geliştiriyorum — ve onlara genelde Türk mitolojisinden isimler veriyorum. Terminalde rahatım; platform/SRE yığınını her projede biraz daha öğreniyorum.
+**TR** — Ağ mühendisiyim. Hobi olarak ve kendi ihtiyaçlarım doğrultusunda küçük, sıfır-bağımlılıklı araçlar geliştiriyorum — temelde öğrenmeye ve kendimi geliştirmeye devam etmek için.
 
 ---
 
@@ -63,15 +63,3 @@
 ### 📫 Reach me · İletişim
 
 [![Website](https://img.shields.io/badge/kaktusdev.net-6f42c1?style=flat&logo=firefox&logoColor=white)](https://kaktusdev.net)
-<!-- LinkedIn linkini ekle: -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KULLANICI-ADIN)
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yfthcn&show_icons=true&hide_border=true&theme=transparent&hide=stars" height="150" alt="GitHub stats" />
-
-<sub>⚡ <i>kurultay</i> — küçük araçlardan kurulu bir konsey · a council built from small tools</sub>
-
-</div>
